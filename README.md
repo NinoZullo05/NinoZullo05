@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nino</h1>
 <h3 align="center">A passionate developer from Italy 🇮🇹 </h3>
 
-- 🔭 I’m currently working on [PokeFlutter](https://github.com/NinoZullo05/PokeFlutter.git)
+- 🔭 I’m currently working on [ToDoHQ](https://github.com/NinoZullo05/ToDoHQ.git)
 
 - 🌱 I’m currently learning **Angular**
 
