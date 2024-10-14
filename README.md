@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ToDoHQ](https://github.com/NinoZullo05/ToDoHQ.git)
 
-- 🌱 I’m currently learning **GoLang** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" />
+- 🌱 I’m currently learning **GoLang** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="20" height="20" />
 
 - 💬 Ask me about **React, Flutter, Java, PHP**
 
